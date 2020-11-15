@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\CSharp_Tests\SpringVacationTrip\bin\Debug\netcoreapp3.1\SpringVacationTrip.exe
+C:\Users\ZAKO\source\repos\CSharp_Tests\SpringVacationTrip\bin\Debug\netcoreapp3.1\SpringVacationTrip.deps.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\SpringVacationTrip\bin\Debug\netcoreapp3.1\SpringVacationTrip.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\SpringVacationTrip\bin\Debug\netcoreapp3.1\SpringVacationTrip.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\SpringVacationTrip\bin\Debug\netcoreapp3.1\SpringVacationTrip.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\SpringVacationTrip\bin\Debug\netcoreapp3.1\SpringVacationTrip.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharp_Tests\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.genruntimeconfig.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.csprojAssemblyReference.cache

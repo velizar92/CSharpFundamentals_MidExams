@@ -1,0 +1,12 @@
+C:\Users\ZAKO\source\repos\CSharp_Tests\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+C:\Users\ZAKO\source\repos\CSharp_Tests\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharp_Tests\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache

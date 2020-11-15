@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\CSharp_Tests\NationalCourt\bin\Debug\netcoreapp3.1\NationalCourt.exe
+C:\Users\ZAKO\source\repos\CSharp_Tests\NationalCourt\bin\Debug\netcoreapp3.1\NationalCourt.deps.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\NationalCourt\bin\Debug\netcoreapp3.1\NationalCourt.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\NationalCourt\bin\Debug\netcoreapp3.1\NationalCourt.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\NationalCourt\bin\Debug\netcoreapp3.1\NationalCourt.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\NationalCourt\bin\Debug\netcoreapp3.1\NationalCourt.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharp_Tests\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.genruntimeconfig.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.csprojAssemblyReference.cache

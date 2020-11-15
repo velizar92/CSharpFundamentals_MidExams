@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\CSharp_Tests\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.exe
+C:\Users\ZAKO\source\repos\CSharp_Tests\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.deps.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharp_Tests\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.genruntimeconfig.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csprojAssemblyReference.cache

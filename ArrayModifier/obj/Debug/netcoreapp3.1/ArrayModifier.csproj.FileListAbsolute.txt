@@ -1,0 +1,12 @@
+C:\Users\ZAKO\source\repos\CSharp_Tests\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.exe
+C:\Users\ZAKO\source\repos\CSharp_Tests\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.deps.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharp_Tests\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.genruntimeconfig.cache

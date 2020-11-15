@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\CSharp_Tests\TheHuntingGames\bin\Debug\netcoreapp3.1\TheHuntingGames.exe
+C:\Users\ZAKO\source\repos\CSharp_Tests\TheHuntingGames\bin\Debug\netcoreapp3.1\TheHuntingGames.deps.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\TheHuntingGames\bin\Debug\netcoreapp3.1\TheHuntingGames.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\TheHuntingGames\bin\Debug\netcoreapp3.1\TheHuntingGames.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\TheHuntingGames\bin\Debug\netcoreapp3.1\TheHuntingGames.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\TheHuntingGames\bin\Debug\netcoreapp3.1\TheHuntingGames.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\TheHuntingGames\obj\Debug\netcoreapp3.1\TheHuntingGames.csprojAssemblyReference.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\TheHuntingGames\obj\Debug\netcoreapp3.1\TheHuntingGames.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\TheHuntingGames\obj\Debug\netcoreapp3.1\TheHuntingGames.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharp_Tests\TheHuntingGames\obj\Debug\netcoreapp3.1\TheHuntingGames.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\TheHuntingGames\obj\Debug\netcoreapp3.1\TheHuntingGames.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\TheHuntingGames\obj\Debug\netcoreapp3.1\TheHuntingGames.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\TheHuntingGames\obj\Debug\netcoreapp3.1\TheHuntingGames.genruntimeconfig.cache

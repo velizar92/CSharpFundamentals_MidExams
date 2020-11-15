@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShootForTheWin\bin\Debug\netcoreapp3.1\ShootForTheWin.exe
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShootForTheWin\bin\Debug\netcoreapp3.1\ShootForTheWin.deps.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShootForTheWin\bin\Debug\netcoreapp3.1\ShootForTheWin.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShootForTheWin\bin\Debug\netcoreapp3.1\ShootForTheWin.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShootForTheWin\bin\Debug\netcoreapp3.1\ShootForTheWin.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShootForTheWin\bin\Debug\netcoreapp3.1\ShootForTheWin.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.csprojAssemblyReference.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.genruntimeconfig.cache

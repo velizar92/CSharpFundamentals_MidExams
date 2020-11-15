@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\CSharp_Tests\LastStop\bin\Debug\netcoreapp3.1\LastStop.exe
+C:\Users\ZAKO\source\repos\CSharp_Tests\LastStop\bin\Debug\netcoreapp3.1\LastStop.deps.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\LastStop\bin\Debug\netcoreapp3.1\LastStop.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\LastStop\bin\Debug\netcoreapp3.1\LastStop.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\LastStop\bin\Debug\netcoreapp3.1\LastStop.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\LastStop\bin\Debug\netcoreapp3.1\LastStop.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\LastStop\obj\Debug\netcoreapp3.1\LastStop.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\LastStop\obj\Debug\netcoreapp3.1\LastStop.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharp_Tests\LastStop\obj\Debug\netcoreapp3.1\LastStop.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\LastStop\obj\Debug\netcoreapp3.1\LastStop.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\LastStop\obj\Debug\netcoreapp3.1\LastStop.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\LastStop\obj\Debug\netcoreapp3.1\LastStop.genruntimeconfig.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\LastStop\obj\Debug\netcoreapp3.1\LastStop.csprojAssemblyReference.cache

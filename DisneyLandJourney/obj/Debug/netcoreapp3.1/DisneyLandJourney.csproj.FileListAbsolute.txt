@@ -1,0 +1,12 @@
+C:\Users\ZAKO\source\repos\CSharp_Tests\DisneyLandJourney\bin\Debug\netcoreapp3.1\DisneyLandJourney.exe
+C:\Users\ZAKO\source\repos\CSharp_Tests\DisneyLandJourney\bin\Debug\netcoreapp3.1\DisneyLandJourney.deps.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\DisneyLandJourney\bin\Debug\netcoreapp3.1\DisneyLandJourney.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\DisneyLandJourney\bin\Debug\netcoreapp3.1\DisneyLandJourney.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\DisneyLandJourney\bin\Debug\netcoreapp3.1\DisneyLandJourney.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\DisneyLandJourney\bin\Debug\netcoreapp3.1\DisneyLandJourney.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\DisneyLandJourney\obj\Debug\netcoreapp3.1\DisneyLandJourney.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\DisneyLandJourney\obj\Debug\netcoreapp3.1\DisneyLandJourney.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharp_Tests\DisneyLandJourney\obj\Debug\netcoreapp3.1\DisneyLandJourney.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\DisneyLandJourney\obj\Debug\netcoreapp3.1\DisneyLandJourney.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\DisneyLandJourney\obj\Debug\netcoreapp3.1\DisneyLandJourney.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\DisneyLandJourney\obj\Debug\netcoreapp3.1\DisneyLandJourney.genruntimeconfig.cache

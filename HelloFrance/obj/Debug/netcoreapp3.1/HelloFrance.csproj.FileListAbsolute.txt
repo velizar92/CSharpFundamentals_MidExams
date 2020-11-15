@@ -1,0 +1,12 @@
+C:\Users\ZAKO\source\repos\CSharp_Tests\HelloFrance\bin\Debug\netcoreapp3.1\HelloFrance.exe
+C:\Users\ZAKO\source\repos\CSharp_Tests\HelloFrance\bin\Debug\netcoreapp3.1\HelloFrance.deps.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\HelloFrance\bin\Debug\netcoreapp3.1\HelloFrance.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\HelloFrance\bin\Debug\netcoreapp3.1\HelloFrance.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\HelloFrance\bin\Debug\netcoreapp3.1\HelloFrance.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\HelloFrance\bin\Debug\netcoreapp3.1\HelloFrance.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\HelloFrance\obj\Debug\netcoreapp3.1\HelloFrance.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\HelloFrance\obj\Debug\netcoreapp3.1\HelloFrance.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharp_Tests\HelloFrance\obj\Debug\netcoreapp3.1\HelloFrance.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\HelloFrance\obj\Debug\netcoreapp3.1\HelloFrance.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\HelloFrance\obj\Debug\netcoreapp3.1\HelloFrance.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\HelloFrance\obj\Debug\netcoreapp3.1\HelloFrance.genruntimeconfig.cache

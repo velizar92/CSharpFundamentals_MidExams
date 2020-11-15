@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\CSharp_Tests\BonusScoringSystem\bin\Debug\netcoreapp3.1\BonusScoringSystem.exe
+C:\Users\ZAKO\source\repos\CSharp_Tests\BonusScoringSystem\bin\Debug\netcoreapp3.1\BonusScoringSystem.deps.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\BonusScoringSystem\bin\Debug\netcoreapp3.1\BonusScoringSystem.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\BonusScoringSystem\bin\Debug\netcoreapp3.1\BonusScoringSystem.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\BonusScoringSystem\bin\Debug\netcoreapp3.1\BonusScoringSystem.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\BonusScoringSystem\bin\Debug\netcoreapp3.1\BonusScoringSystem.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\BonusScoringSystem\obj\Debug\netcoreapp3.1\BonusScoringSystem.csprojAssemblyReference.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\BonusScoringSystem\obj\Debug\netcoreapp3.1\BonusScoringSystem.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\BonusScoringSystem\obj\Debug\netcoreapp3.1\BonusScoringSystem.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharp_Tests\BonusScoringSystem\obj\Debug\netcoreapp3.1\BonusScoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\BonusScoringSystem\obj\Debug\netcoreapp3.1\BonusScoringSystem.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\BonusScoringSystem\obj\Debug\netcoreapp3.1\BonusScoringSystem.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\BonusScoringSystem\obj\Debug\netcoreapp3.1\BonusScoringSystem.genruntimeconfig.cache

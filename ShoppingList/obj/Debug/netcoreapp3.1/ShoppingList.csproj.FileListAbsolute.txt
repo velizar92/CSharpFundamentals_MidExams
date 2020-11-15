@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.exe
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.deps.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csprojAssemblyReference.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.dll
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.pdb
+C:\Users\ZAKO\source\repos\CSharp_Tests\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.genruntimeconfig.cache
