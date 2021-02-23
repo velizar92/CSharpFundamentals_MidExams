@@ -1,0 +1,12 @@
+C:\Users\ZAKO\source\repos\MidExam_07112020\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.exe
+C:\Users\ZAKO\source\repos\MidExam_07112020\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.deps.json
+C:\Users\ZAKO\source\repos\MidExam_07112020\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.json
+C:\Users\ZAKO\source\repos\MidExam_07112020\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\MidExam_07112020\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\ZAKO\source\repos\MidExam_07112020\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\ZAKO\source\repos\MidExam_07112020\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\MidExam_07112020\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\MidExam_07112020\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\MidExam_07112020\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\ZAKO\source\repos\MidExam_07112020\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\ZAKO\source\repos\MidExam_07112020\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\MidExam_07112020\CookingMasterClass\bin\Debug\netcoreapp3.1\CookingMasterClass.exe
+C:\Users\ZAKO\source\repos\MidExam_07112020\CookingMasterClass\bin\Debug\netcoreapp3.1\CookingMasterClass.deps.json
+C:\Users\ZAKO\source\repos\MidExam_07112020\CookingMasterClass\bin\Debug\netcoreapp3.1\CookingMasterClass.runtimeconfig.json
+C:\Users\ZAKO\source\repos\MidExam_07112020\CookingMasterClass\bin\Debug\netcoreapp3.1\CookingMasterClass.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\MidExam_07112020\CookingMasterClass\bin\Debug\netcoreapp3.1\CookingMasterClass.dll
+C:\Users\ZAKO\source\repos\MidExam_07112020\CookingMasterClass\bin\Debug\netcoreapp3.1\CookingMasterClass.pdb
+C:\Users\ZAKO\source\repos\MidExam_07112020\CookingMasterClass\obj\Debug\netcoreapp3.1\CookingMasterClass.csprojAssemblyReference.cache
+C:\Users\ZAKO\source\repos\MidExam_07112020\CookingMasterClass\obj\Debug\netcoreapp3.1\CookingMasterClass.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\MidExam_07112020\CookingMasterClass\obj\Debug\netcoreapp3.1\CookingMasterClass.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\MidExam_07112020\CookingMasterClass\obj\Debug\netcoreapp3.1\CookingMasterClass.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\MidExam_07112020\CookingMasterClass\obj\Debug\netcoreapp3.1\CookingMasterClass.dll
+C:\Users\ZAKO\source\repos\MidExam_07112020\CookingMasterClass\obj\Debug\netcoreapp3.1\CookingMasterClass.pdb
+C:\Users\ZAKO\source\repos\MidExam_07112020\CookingMasterClass\obj\Debug\netcoreapp3.1\CookingMasterClass.genruntimeconfig.cache
